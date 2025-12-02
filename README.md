@@ -36,15 +36,10 @@ Aquí están las herramientas con las que trabajo actualmente:
 
 ---
 
-### 📊 Mis Estadísticas de GitHub
+### 📊 Mis Estadísticas
 
-<p align="left">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=josealavar&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="Mis estadísticas" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josealavar&layout=compact&theme=radical&hide_border=true" alt="Lenguajes más usados" />
-</a>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=josealavar&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
