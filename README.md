@@ -52,6 +52,4 @@ Aquí están las herramientas con las que trabajo actualmente:
 ### 📫 Conectemos
 Busco mi primera oportunidad profesional como desarrollador. Si te interesa mi perfil, ¡hablemos!
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">](www.linkedin.com/in/josé-luis-alavar-dev
-
-)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">](www.linkedin.com/in/josé-luis-alavar-dev)
